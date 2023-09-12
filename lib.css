@@ -2,7 +2,6 @@
         body {
             background-color: white;
             font-family: Arial, sans-serif;
-                background-image: url('still-life-books-versus-technology_23-2150062975.jpg');
                 background-size: cover;
                 background-repeat: no-repeat;
                 background-attachment: fixed; /* This ensures that the background image stays fixed while scrolling */
